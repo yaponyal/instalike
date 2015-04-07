@@ -8,7 +8,10 @@ This is a small script written in Python, that uses Instagram API to infinitely 
 * Save liked photos
 
 ###Needed Python modules:
-* [requests](http://docs.python-requests.org/en/latest/)
+
+* python get-pip.py
+* sudo pip install requests
+* sudo pip install pyopenssl ndg-httpsclient pyasn1
 
 ###Steps:
 Don't forget to check [Instagram API](https://instagram.com/developer/).
